@@ -1,4 +1,5 @@
 #Sentiment Analysis of Movie Reviews
+
 Overview
 This project performs sentiment analysis on movie reviews using machine learning classifiers. It involves importing libraries, data preprocessing, feature extraction, model training, evaluation, and visualization.
 
